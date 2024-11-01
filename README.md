@@ -50,14 +50,30 @@ cd WhatsSender
 npm install
 ```
 
-## Go to fileManager and create new folder 'Notes' on root
+## Prepare Files
+
+1. Go to your file manager.
+
+
+2. Create a new folder named Notes in the root directory.
+
+
+3. Add an MP3 file (e.g., song.mp3) to the Notes folder.
 
 ## And add a song to Notes like (song.mp3)
 
 **open WhatsApp and turn off your internet connection or wifi then upload voice note to status**
 
-## Open Termux
+## Upload a Voice Note to WhatsApp Status
 
+1. Open WhatsApp and turn off your internet connection or WiFi.
+
+
+2. Upload a voice note as a status.
+
+## Run WhatsSender
+
+Back in Termux, run:
 ```bash
 node index.js
 ```
