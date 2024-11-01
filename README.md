@@ -75,11 +75,17 @@ npm install
 
 ## Run WhatsSender
 
-Back in Termux, run:
+Back in Termux, run: (For WhatsApp Buisness)
 ```bash
 node index.js
 ```
 
+## Run WhatsSender
+
+Back in Termux, run: (For Normal WhatsApp)
+```bash
+node index2.js
+```
 
 Note:
 Do not turn on the internet before you see the success message in Termux.
