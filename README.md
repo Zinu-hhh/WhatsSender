@@ -37,6 +37,10 @@ pkg install nodejs
 ```bash
 git clone https://github.com/SafwanGanz/WhatsSender
 ```
+*Storage Permission*
+```bash
+termux-setup-storage
+```
 
 *Open WhatsSender*
 
