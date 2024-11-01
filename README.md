@@ -77,3 +77,7 @@ Back in Termux, run:
 ```bash
 node index.js
 ```
+
+
+Note:
+Do not turn on the internet before you see the success message in Termux.
