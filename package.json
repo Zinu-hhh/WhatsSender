@@ -1,0 +1,19 @@
+{
+  "name": "whatssender",
+  "version": "1.0.0",
+  "description": "share status like pro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github/SafwanGanz/WhatsSender"
+  },
+  "author": "SafwanGanz",
+  "license": "ISC",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.3",
+    "path": "^0.12.7"
+  }
+}
