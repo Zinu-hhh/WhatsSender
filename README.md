@@ -60,7 +60,7 @@ npm install
 
 3. Add an MP3 file (e.g., song.mp3) to the Notes folder.
 
-## And add a song to Notes like (song.mp3)
+## Send Audio Status 
 
 **open WhatsApp and turn off your internet connection or wifi then upload voice note to status**
 
